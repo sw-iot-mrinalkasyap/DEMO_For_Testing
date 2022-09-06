@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: black;
+  margin: auto;
+  height: 100vh;
+  width: 100vw;
+  color: aliceblue;
+}
+
+.App h1{
+  text-align: center;
+  left:40%;
+  top: 40%;
+  position: absolute;
+  font-size: 5em;
+}
